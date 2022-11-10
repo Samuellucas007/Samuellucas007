@@ -24,7 +24,7 @@
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
   
-  <hr></hr>
+##
   
 <!--<div> 
    <a href="https://www.instagram.com/https://www.instagram.com/lyorrei/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
