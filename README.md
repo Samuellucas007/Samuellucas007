@@ -6,3 +6,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new technologies and tools
 - 👯 I'm looking to collaborate on the world technology
 - 📫 How to reach me: samuellucas007@outlook.com.br
+
+<div>
+    <a href="https://github.com/Samuellucas007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuellucas007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src=""/>
+</div>
