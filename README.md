@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Samuel Lucas de Almeida</h1>
 
-
+<br>
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning new technologies and tools
