@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Samuel Lucas de Almeida</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Samuel Lucas de Almeida</h1>
 
 <br>
 Here are some ideas to get you started:
